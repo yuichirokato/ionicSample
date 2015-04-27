@@ -1,0 +1,298 @@
+2015-04-23 18:19:30.058 ionicSample[90722:2271618] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Data/Application/CC701543-F6C5-4A7B-B7E3-3C6C3810E893/Library/Cookies/Cookies.binarycookies
+2015-04-23 18:19:30.399 ionicSample[90722:2271618] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:19:30.400 ionicSample[90722:2271618] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:19:30.419 ionicSample[90722:2271618] Unlimited access to network resources
+2015-04-23 18:19:30.760 ionicSample[90722:2271618] [CDVTimer][keyboard] 0.057995ms
+2015-04-23 18:19:30.760 ionicSample[90722:2271618] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-04-23 18:19:31.166 ionicSample[90722:2271618] Resetting plugins due to page load.
+2015-04-23 18:19:31.398 ionicSample[90722:2271618] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/F51E1FFF-745C-4717-9603-DF8FC8A17558/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:19:42.810 ionicSample[90722:2271618] Resetting plugins due to page load.
+2015-04-23 18:19:44.493 ionicSample[90722:2271618] Finished load of: http://qiita.com/datsnet/items/2754a260455bd8d957dd
+2015-04-23 18:20:09.557 ionicSample[90722:2272191] Terminating since there is no system app.
+2015-04-23 18:38:42.253 ionicSample[92504:2284002] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Data/Application/1DBFD71C-3C50-4425-BE0D-0E3002CF3857/Library/Cookies/Cookies.binarycookies
+2015-04-23 18:38:42.599 ionicSample[92504:2284002] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:38:42.600 ionicSample[92504:2284002] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:38:42.617 ionicSample[92504:2284002] Unlimited access to network resources
+2015-04-23 18:38:42.974 ionicSample[92504:2284002] [CDVTimer][keyboard] 0.057042ms
+2015-04-23 18:38:42.975 ionicSample[92504:2284002] [CDVTimer][TotalPluginStartup] 0.277042ms
+2015-04-23 18:38:43.213 ionicSample[92504:2284002] Resetting plugins due to page load.
+2015-04-23 18:38:43.443 ionicSample[92504:2284002] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/266D968C-E363-4177-9917-D93BEB64123A/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:38:52.241 ionicSample[92504:2284002] Resetting plugins due to page load.
+2015-04-23 18:38:53.641 ionicSample[92504:2284068] Terminating since there is no system app.
+2015-04-23 18:45:06.348 ionicSample[92945:2288021] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Data/Application/5CE10AC2-38C1-4FDD-975F-76C1A91EBE6B/Library/Cookies/Cookies.binarycookies
+2015-04-23 18:45:06.472 ionicSample[92945:2288021] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:45:06.473 ionicSample[92945:2288021] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:45:06.476 ionicSample[92945:2288021] Unlimited access to network resources
+2015-04-23 18:45:06.551 ionicSample[92945:2288021] [CDVTimer][keyboard] 0.048995ms
+2015-04-23 18:45:06.551 ionicSample[92945:2288021] [CDVTimer][TotalPluginStartup] 0.218034ms
+2015-04-23 18:45:06.704 ionicSample[92945:2288021] Resetting plugins due to page load.
+2015-04-23 18:45:06.859 ionicSample[92945:2288021] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/B91FB306-CAAE-4D80-A6EE-DE023FC9DC1F/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:48:10.765 ionicSample[93174:2290751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Data/Application/BFDBDD91-EF53-4929-814F-CAD4BD655ECA/Library/Cookies/Cookies.binarycookies
+2015-04-23 18:48:10.843 ionicSample[93174:2290751] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:48:10.844 ionicSample[93174:2290751] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:48:10.846 ionicSample[93174:2290751] Unlimited access to network resources
+2015-04-23 18:48:10.923 ionicSample[93174:2290751] [CDVTimer][keyboard] 0.068009ms
+2015-04-23 18:48:10.923 ionicSample[93174:2290751] [CDVTimer][TotalPluginStartup] 0.262976ms
+2015-04-23 18:48:11.029 ionicSample[93174:2290751] Resetting plugins due to page load.
+2015-04-23 18:48:11.175 ionicSample[93174:2290751] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/241D6281-3EB6-4B68-8B40-9739647B4E41/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:51:41.970 ionicSample[93374:2293927] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Data/Application/9A691FE8-14F7-448C-B5F5-CBF248722769/Library/Cookies/Cookies.binarycookies
+2015-04-23 18:51:42.182 ionicSample[93374:2293927] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:51:42.183 ionicSample[93374:2293927] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:51:42.184 ionicSample[93374:2293927] Unlimited access to network resources
+2015-04-23 18:51:42.259 ionicSample[93374:2293927] [CDVTimer][keyboard] 0.056028ms
+2015-04-23 18:51:42.259 ionicSample[93374:2293927] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-04-23 18:51:42.360 ionicSample[93374:2293927] Resetting plugins due to page load.
+2015-04-23 18:51:42.528 ionicSample[93374:2293927] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/6311EA75-C15E-44D9-93C7-B6A7E4CCC2F6/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:51:46.355 ionicSample[93374:2293927] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-04-23 18:51:46.372 ionicSample[93374:2293927] THREAD WARNING: ['InAppBrowser'] took '140.565186' ms. Plugin should use a background thread.
+2015-04-23 18:52:52.887 ionicSample[93542:2294803] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:52:52.888 ionicSample[93542:2294803] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:52:52.890 ionicSample[93542:2294803] Unlimited access to network resources
+2015-04-23 18:52:52.957 ionicSample[93542:2294803] [CDVTimer][keyboard] 0.059009ms
+2015-04-23 18:52:52.957 ionicSample[93542:2294803] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-04-23 18:52:53.020 ionicSample[93542:2294803] Resetting plugins due to page load.
+2015-04-23 18:52:53.178 ionicSample[93542:2294803] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/E7CADE1F-F36E-4042-B763-322115E0FE64/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 18:54:08.212 ionicSample[93542:2294803] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-04-23 18:54:08.218 ionicSample[93542:2294803] THREAD WARNING: ['InAppBrowser'] took '69.604736' ms. Plugin should use a background thread.
+2015-04-23 18:57:31.821 ionicSample[93962:2298455] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 18:57:31.823 ionicSample[93962:2298455] Multi-tasking -> Device: YES, App: YES
+2015-04-23 18:57:31.826 ionicSample[93962:2298455] Unlimited access to network resources
+2015-04-23 18:57:31.903 ionicSample[93962:2298455] [CDVTimer][keyboard] 0.364006ms
+2015-04-23 18:57:31.903 ionicSample[93962:2298455] [CDVTimer][TotalPluginStartup] 0.551999ms
+2015-04-23 18:57:32.001 ionicSample[93962:2298455] Resetting plugins due to page load.
+2015-04-23 18:57:32.153 ionicSample[93962:2298455] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/769D815F-9090-45F9-9B0F-EF62A2684463/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:05:50.719 ionicSample[94401:2305011] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:05:50.720 ionicSample[94401:2305011] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:05:50.721 ionicSample[94401:2305011] Unlimited access to network resources
+2015-04-23 19:05:50.792 ionicSample[94401:2305011] [CDVTimer][keyboard] 0.059009ms
+2015-04-23 19:05:50.792 ionicSample[94401:2305011] [CDVTimer][TotalPluginStartup] 0.232995ms
+2015-04-23 19:05:50.906 ionicSample[94401:2305011] Resetting plugins due to page load.
+2015-04-23 19:05:51.067 ionicSample[94401:2305011] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/34138615-5FB0-436E-8D5F-654695F0C09B/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:06:55.852 ionicSample[94568:2306288] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:06:55.853 ionicSample[94568:2306288] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:06:55.855 ionicSample[94568:2306288] Unlimited access to network resources
+2015-04-23 19:06:56.033 ionicSample[94568:2306288] [CDVTimer][keyboard] 0.064969ms
+2015-04-23 19:06:56.033 ionicSample[94568:2306288] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-04-23 19:06:56.113 ionicSample[94568:2306288] Resetting plugins due to page load.
+2015-04-23 19:06:56.305 ionicSample[94568:2306288] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/95CC9305-0E6A-4E11-A93A-A98C04AAE217/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:09:11.088 ionicSample[94921:2307797] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:09:11.088 ionicSample[94921:2307797] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:09:11.090 ionicSample[94921:2307797] Unlimited access to network resources
+2015-04-23 19:09:11.161 ionicSample[94921:2307797] [CDVTimer][keyboard] 0.054955ms
+2015-04-23 19:09:11.161 ionicSample[94921:2307797] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-04-23 19:09:11.260 ionicSample[94921:2307797] Resetting plugins due to page load.
+2015-04-23 19:09:11.401 ionicSample[94921:2307797] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/5C4236E1-B4C0-442E-B062-0DA7FC0329DF/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:30:30.010 ionicSample[95342:2319291] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:30:30.011 ionicSample[95342:2319291] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:30:30.012 ionicSample[95342:2319291] Unlimited access to network resources
+2015-04-23 19:30:30.082 ionicSample[95342:2319291] [CDVTimer][keyboard] 0.059009ms
+2015-04-23 19:30:30.082 ionicSample[95342:2319291] [CDVTimer][TotalPluginStartup] 0.230014ms
+2015-04-23 19:30:30.146 ionicSample[95342:2319291] Resetting plugins due to page load.
+2015-04-23 19:30:30.295 ionicSample[95342:2319291] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/542294AB-E4EC-4E80-8198-86B086C93C54/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:31:26.861 ionicSample[95505:2320270] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:31:26.862 ionicSample[95505:2320270] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:31:26.864 ionicSample[95505:2320270] Unlimited access to network resources
+2015-04-23 19:31:26.931 ionicSample[95505:2320270] [CDVTimer][keyboard] 0.055969ms
+2015-04-23 19:31:26.931 ionicSample[95505:2320270] [CDVTimer][TotalPluginStartup] 0.227034ms
+2015-04-23 19:31:26.992 ionicSample[95505:2320270] Resetting plugins due to page load.
+2015-04-23 19:31:27.143 ionicSample[95505:2320270] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/EA073D7C-91D9-4AE6-9854-B3715D73F156/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:40:06.955 ionicSample[95941:2325578] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:40:06.955 ionicSample[95941:2325578] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:40:06.958 ionicSample[95941:2325578] Unlimited access to network resources
+2015-04-23 19:40:07.033 ionicSample[95941:2325578] [CDVTimer][keyboard] 0.055015ms
+2015-04-23 19:40:07.033 ionicSample[95941:2325578] [CDVTimer][TotalPluginStartup] 0.234962ms
+2015-04-23 19:40:07.151 ionicSample[95941:2325578] Resetting plugins due to page load.
+2015-04-23 19:40:07.290 ionicSample[95941:2325578] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/B4479D3D-2B2D-4FCA-9A83-DD0C49916E6E/ionicSample.app/www/index.html
+2015-04-23 19:41:56.768 ionicSample[96120:2327506] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:41:56.769 ionicSample[96120:2327506] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:41:56.770 ionicSample[96120:2327506] Unlimited access to network resources
+2015-04-23 19:41:56.838 ionicSample[96120:2327506] [CDVTimer][keyboard] 0.060022ms
+2015-04-23 19:41:56.838 ionicSample[96120:2327506] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-04-23 19:41:56.902 ionicSample[96120:2327506] Resetting plugins due to page load.
+2015-04-23 19:41:57.060 ionicSample[96120:2327506] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/000350D4-0480-4D4C-A4D6-4E6029A3F861/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 19:49:56.468 ionicSample[96581:2332884] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 19:49:56.468 ionicSample[96581:2332884] Multi-tasking -> Device: YES, App: YES
+2015-04-23 19:49:56.471 ionicSample[96581:2332884] Unlimited access to network resources
+2015-04-23 19:49:56.540 ionicSample[96581:2332884] [CDVTimer][keyboard] 0.054002ms
+2015-04-23 19:49:56.615 ionicSample[96581:2332884] [CDVTimer][splashscreen] 75.163007ms
+2015-04-23 19:49:56.616 ionicSample[96581:2332884] [CDVTimer][TotalPluginStartup] 75.946987ms
+2015-04-23 19:49:56.700 ionicSample[96581:2332884] Resetting plugins due to page load.
+2015-04-23 19:49:56.830 ionicSample[96581:2332884] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/492FCEFF-B60A-4972-93B7-06C8541385B0/ionicSample.app/www/index.html
+2015-04-23 20:00:46.092 ionicSample[96878:2338306] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:00:46.094 ionicSample[96878:2338306] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:00:46.095 ionicSample[96878:2338306] Unlimited access to network resources
+2015-04-23 20:00:46.172 ionicSample[96878:2338306] [CDVTimer][keyboard] 0.047982ms
+2015-04-23 20:00:46.198 ionicSample[96878:2338306] [CDVTimer][splashscreen] 26.193976ms
+2015-04-23 20:00:46.198 ionicSample[96878:2338306] [CDVTimer][TotalPluginStartup] 26.611984ms
+2015-04-23 20:00:46.251 ionicSample[96878:2338306] Resetting plugins due to page load.
+2015-04-23 20:00:46.409 ionicSample[96878:2338306] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/79735A3A-49B2-427A-B65E-34F3B5C66644/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:03:28.691 ionicSample[97068:2339884] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:03:28.692 ionicSample[97068:2339884] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:03:28.693 ionicSample[97068:2339884] Unlimited access to network resources
+2015-04-23 20:03:28.772 ionicSample[97068:2339884] [CDVTimer][keyboard] 0.072002ms
+2015-04-23 20:03:28.811 ionicSample[97068:2339884] [CDVTimer][splashscreen] 38.240016ms
+2015-04-23 20:03:28.811 ionicSample[97068:2339884] [CDVTimer][TotalPluginStartup] 38.688004ms
+2015-04-23 20:03:28.891 ionicSample[97068:2339884] Resetting plugins due to page load.
+2015-04-23 20:03:29.043 ionicSample[97068:2339884] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/B6C6167A-269D-44CA-A132-0C9BC8EB6A88/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:03:42.778 ionicSample[97068:2339884] Setting the WebView's frame to {{0, 0}, {375, 623}}
+2015-04-23 20:03:42.803 ionicSample[97068:2339884] THREAD WARNING: ['InAppBrowser'] took '150.074951' ms. Plugin should use a background thread.
+2015-04-23 20:04:23.312 ionicSample[97238:2340783] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:04:23.313 ionicSample[97238:2340783] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:04:23.315 ionicSample[97238:2340783] Unlimited access to network resources
+2015-04-23 20:04:23.382 ionicSample[97238:2340783] [CDVTimer][keyboard] 0.075996ms
+2015-04-23 20:04:23.406 ionicSample[97238:2340783] [CDVTimer][splashscreen] 23.558021ms
+2015-04-23 20:04:23.406 ionicSample[97238:2340783] [CDVTimer][TotalPluginStartup] 23.986995ms
+2015-04-23 20:04:23.456 ionicSample[97238:2340783] Resetting plugins due to page load.
+2015-04-23 20:04:23.612 ionicSample[97238:2340783] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/6221D5C3-89C0-4F55-B4F6-BC03F9FCDB25/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:12:19.155 ionicSample[97673:2345043] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:12:19.156 ionicSample[97673:2345043] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:12:19.159 ionicSample[97673:2345043] Unlimited access to network resources
+2015-04-23 20:12:19.230 ionicSample[97673:2345043] [CDVTimer][keyboard] 0.046968ms
+2015-04-23 20:12:19.273 ionicSample[97673:2345043] [CDVTimer][splashscreen] 42.554021ms
+2015-04-23 20:12:19.273 ionicSample[97673:2345043] [CDVTimer][TotalPluginStartup] 42.916000ms
+2015-04-23 20:12:19.358 ionicSample[97673:2345043] Resetting plugins due to page load.
+2015-04-23 20:12:19.508 ionicSample[97673:2345043] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/51B02E20-A3BE-4E33-B999-BC89DD3EB13A/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:13:30.812 ionicSample[97845:2345893] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:13:30.813 ionicSample[97845:2345893] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:13:30.815 ionicSample[97845:2345893] Unlimited access to network resources
+2015-04-23 20:13:30.882 ionicSample[97845:2345893] [CDVTimer][keyboard] 0.054955ms
+2015-04-23 20:13:30.911 ionicSample[97845:2345893] [CDVTimer][splashscreen] 28.877020ms
+2015-04-23 20:13:30.911 ionicSample[97845:2345893] [CDVTimer][TotalPluginStartup] 29.240012ms
+2015-04-23 20:13:30.977 ionicSample[97845:2345893] Resetting plugins due to page load.
+2015-04-23 20:13:31.127 ionicSample[97845:2345893] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/89D3C5CE-2EA2-46EE-A0AB-705C993AB6E0/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:15:54.838 ionicSample[98033:2348102] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:15:54.847 ionicSample[98033:2348102] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:15:54.849 ionicSample[98033:2348102] Unlimited access to network resources
+2015-04-23 20:15:54.920 ionicSample[98033:2348102] [CDVTimer][keyboard] 0.050962ms
+2015-04-23 20:15:54.947 ionicSample[98033:2348102] [CDVTimer][splashscreen] 27.446032ms
+2015-04-23 20:15:54.947 ionicSample[98033:2348102] [CDVTimer][TotalPluginStartup] 27.799010ms
+2015-04-23 20:15:55.000 ionicSample[98033:2348102] Resetting plugins due to page load.
+2015-04-23 20:15:55.151 ionicSample[98033:2348102] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/E4C170B6-4793-4929-A4C9-2AC02356EFC4/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:18:33.331 ionicSample[98221:2349318] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:18:33.332 ionicSample[98221:2349318] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:18:33.333 ionicSample[98221:2349318] Unlimited access to network resources
+2015-04-23 20:18:33.400 ionicSample[98221:2349318] [CDVTimer][keyboard] 0.057995ms
+2015-04-23 20:18:33.431 ionicSample[98221:2349318] [CDVTimer][splashscreen] 30.876994ms
+2015-04-23 20:18:33.431 ionicSample[98221:2349318] [CDVTimer][TotalPluginStartup] 31.279981ms
+2015-04-23 20:18:33.482 ionicSample[98221:2349318] Resetting plugins due to page load.
+2015-04-23 20:18:33.634 ionicSample[98221:2349318] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/7200F5F6-8EE2-42EF-8C99-B869404A22A6/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:19:36.419 ionicSample[98389:2350535] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:19:36.421 ionicSample[98389:2350535] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:19:36.422 ionicSample[98389:2350535] Unlimited access to network resources
+2015-04-23 20:19:36.489 ionicSample[98389:2350535] [CDVTimer][keyboard] 0.050962ms
+2015-04-23 20:19:36.513 ionicSample[98389:2350535] [CDVTimer][splashscreen] 23.330033ms
+2015-04-23 20:19:36.513 ionicSample[98389:2350535] [CDVTimer][TotalPluginStartup] 23.693025ms
+2015-04-23 20:19:36.564 ionicSample[98389:2350535] Resetting plugins due to page load.
+2015-04-23 20:19:36.718 ionicSample[98389:2350535] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/BF717B0A-2020-4389-90A9-E65156EB18F3/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:20:36.271 ionicSample[98557:2351422] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:20:36.272 ionicSample[98557:2351422] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:20:36.274 ionicSample[98557:2351422] Unlimited access to network resources
+2015-04-23 20:20:36.340 ionicSample[98557:2351422] [CDVTimer][keyboard] 0.051022ms
+2015-04-23 20:20:36.359 ionicSample[98557:2351422] [CDVTimer][splashscreen] 18.993974ms
+2015-04-23 20:20:36.359 ionicSample[98557:2351422] [CDVTimer][TotalPluginStartup] 19.369006ms
+2015-04-23 20:20:36.410 ionicSample[98557:2351422] Resetting plugins due to page load.
+2015-04-23 20:20:36.549 ionicSample[98557:2351422] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/6D25CF2A-D24E-464E-A5EB-3255EB8620F2/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:25:53.801 ionicSample[98781:2354481] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:25:53.802 ionicSample[98781:2354481] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:25:53.804 ionicSample[98781:2354481] Unlimited access to network resources
+2015-04-23 20:25:53.875 ionicSample[98781:2354481] [CDVTimer][keyboard] 0.052989ms
+2015-04-23 20:25:53.924 ionicSample[98781:2354481] [CDVTimer][splashscreen] 48.982978ms
+2015-04-23 20:25:53.924 ionicSample[98781:2354481] [CDVTimer][TotalPluginStartup] 49.351037ms
+2015-04-23 20:25:54.012 ionicSample[98781:2354481] Resetting plugins due to page load.
+2015-04-23 20:25:54.180 ionicSample[98781:2354481] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/992435CF-638C-41F2-89FC-545B9AEF5C43/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:26:44.070 ionicSample[98947:2355245] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:26:44.070 ionicSample[98947:2355245] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:26:44.072 ionicSample[98947:2355245] Unlimited access to network resources
+2015-04-23 20:26:44.144 ionicSample[98947:2355245] [CDVTimer][keyboard] 0.049949ms
+2015-04-23 20:26:44.171 ionicSample[98947:2355245] [CDVTimer][splashscreen] 26.726007ms
+2015-04-23 20:26:44.171 ionicSample[98947:2355245] [CDVTimer][TotalPluginStartup] 27.083993ms
+2015-04-23 20:26:44.227 ionicSample[98947:2355245] Resetting plugins due to page load.
+2015-04-23 20:26:44.380 ionicSample[98947:2355245] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/77590FE0-18D7-4B2D-B329-D3BAFBC5D198/ionicSample.app/www/index.html#/tab/swift
+2015-04-23 20:27:54.140 ionicSample[99120:2357231] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 20:27:54.141 ionicSample[99120:2357231] Multi-tasking -> Device: YES, App: YES
+2015-04-23 20:27:54.143 ionicSample[99120:2357231] Unlimited access to network resources
+2015-04-23 20:27:54.211 ionicSample[99120:2357231] [CDVTimer][keyboard] 0.064015ms
+2015-04-23 20:27:54.225 ionicSample[99120:2357231] [CDVTimer][splashscreen] 13.423026ms
+2015-04-23 20:27:54.225 ionicSample[99120:2357231] [CDVTimer][TotalPluginStartup] 13.824999ms
+2015-04-23 20:27:54.283 ionicSample[99120:2357231] Resetting plugins due to page load.
+2015-04-23 20:27:54.421 ionicSample[99120:2357231] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/0BD94758-D394-4EEC-B6A1-11021A153BF0/ionicSample.app/www/index.html#/tab/swift
+2015-04-24 10:23:48.619 ionicSample[99949:2385685] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 10:23:48.620 ionicSample[99949:2385685] Multi-tasking -> Device: YES, App: YES
+2015-04-24 10:23:48.635 ionicSample[99949:2385685] Unlimited access to network resources
+2015-04-24 10:23:48.798 ionicSample[99949:2385685] [CDVTimer][keyboard] 0.054002ms
+2015-04-24 10:23:48.946 ionicSample[99949:2385685] [CDVTimer][splashscreen] 148.173988ms
+2015-04-24 10:23:48.946 ionicSample[99949:2385685] [CDVTimer][TotalPluginStartup] 148.907959ms
+2015-04-24 10:23:49.058 ionicSample[99949:2385685] Resetting plugins due to page load.
+2015-04-24 10:23:49.326 ionicSample[99949:2385685] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/41942D39-0A53-4947-9F06-91591D408CC4/ionicSample.app/www/index.html#/tab/swift
+2015-04-24 10:24:59.594 ionicSample[230:2386571] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 10:24:59.595 ionicSample[230:2386571] Multi-tasking -> Device: YES, App: YES
+2015-04-24 10:24:59.597 ionicSample[230:2386571] Unlimited access to network resources
+2015-04-24 10:24:59.665 ionicSample[230:2386571] [CDVTimer][keyboard] 0.054002ms
+2015-04-24 10:24:59.694 ionicSample[230:2386571] [CDVTimer][splashscreen] 28.526008ms
+2015-04-24 10:24:59.694 ionicSample[230:2386571] [CDVTimer][TotalPluginStartup] 28.948009ms
+2015-04-24 10:24:59.753 ionicSample[230:2386571] Resetting plugins due to page load.
+2015-04-24 10:24:59.912 ionicSample[230:2386571] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/73B768C1-83EA-4D9B-865B-B8C655919714/ionicSample.app/www/index.html#/tab
+2015-04-24 10:33:51.687 ionicSample[552:2392100] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 10:33:51.689 ionicSample[552:2392100] Multi-tasking -> Device: YES, App: YES
+2015-04-24 10:33:51.690 ionicSample[552:2392100] Unlimited access to network resources
+2015-04-24 10:33:51.756 ionicSample[552:2392100] [CDVTimer][keyboard] 0.052989ms
+2015-04-24 10:33:51.780 ionicSample[552:2392100] [CDVTimer][splashscreen] 23.688972ms
+2015-04-24 10:33:51.780 ionicSample[552:2392100] [CDVTimer][TotalPluginStartup] 24.046004ms
+2015-04-24 10:33:51.834 ionicSample[552:2392100] Resetting plugins due to page load.
+2015-04-24 10:33:51.968 ionicSample[552:2392100] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/28EC3489-32E3-4E72-BBB7-F518070F6F77/ionicSample.app/www/index.html#/tab
+2015-04-24 10:44:18.561 ionicSample[985:2397894] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 10:44:18.562 ionicSample[985:2397894] Multi-tasking -> Device: YES, App: YES
+2015-04-24 10:44:18.564 ionicSample[985:2397894] Unlimited access to network resources
+2015-04-24 10:44:18.635 ionicSample[985:2397894] [CDVTimer][keyboard] 0.054002ms
+2015-04-24 10:44:18.674 ionicSample[985:2397894] [CDVTimer][splashscreen] 39.022982ms
+2015-04-24 10:44:18.674 ionicSample[985:2397894] [CDVTimer][TotalPluginStartup] 39.400995ms
+2015-04-24 10:44:18.753 ionicSample[985:2397894] Resetting plugins due to page load.
+2015-04-24 10:44:18.906 ionicSample[985:2397894] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/7921EAB7-17FE-4416-8B1A-F8D295FF5DD8/ionicSample.app/www/index.html#/menu/home
+2015-04-24 10:50:56.408 ionicSample[1270:2407405] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 10:50:56.410 ionicSample[1270:2407405] Multi-tasking -> Device: YES, App: YES
+2015-04-24 10:50:56.411 ionicSample[1270:2407405] Unlimited access to network resources
+2015-04-24 10:50:56.486 ionicSample[1270:2407405] [CDVTimer][keyboard] 0.050008ms
+2015-04-24 10:50:56.565 ionicSample[1270:2407405] [CDVTimer][splashscreen] 79.147995ms
+2015-04-24 10:50:56.565 ionicSample[1270:2407405] [CDVTimer][TotalPluginStartup] 79.528034ms
+2015-04-24 10:50:56.654 ionicSample[1270:2407405] Resetting plugins due to page load.
+2015-04-24 10:50:56.808 ionicSample[1270:2407405] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/16A04410-EFF0-41FE-AF5C-339436AA119A/ionicSample.app/www/index.html#/menu/home
+2015-04-24 15:39:37.434 ionicSample[4244:2538095] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 15:39:37.435 ionicSample[4244:2538095] Multi-tasking -> Device: YES, App: YES
+2015-04-24 15:39:37.450 ionicSample[4244:2538095] Unlimited access to network resources
+2015-04-24 15:39:37.785 ionicSample[4244:2538095] [CDVTimer][keyboard] 0.054002ms
+2015-04-24 15:39:37.957 ionicSample[4244:2538095] [CDVTimer][splashscreen] 171.117961ms
+2015-04-24 15:39:37.957 ionicSample[4244:2538095] [CDVTimer][TotalPluginStartup] 171.820045ms
+2015-04-24 15:39:38.098 ionicSample[4244:2538095] Resetting plugins due to page load.
+2015-04-24 15:39:38.321 ionicSample[4244:2538095] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/977F00C4-2520-40F0-A995-ACDDF601B049/ionicSample.app/www/index.html#/menu/home
+2015-04-24 17:16:42.568 ionicSample[6818:2582585] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 17:16:42.572 ionicSample[6818:2582585] Multi-tasking -> Device: YES, App: YES
+2015-04-24 17:16:42.589 ionicSample[6818:2582585] Unlimited access to network resources
+2015-04-24 17:16:42.891 ionicSample[6818:2582585] [CDVTimer][keyboard] 0.066996ms
+2015-04-24 17:16:43.051 ionicSample[6818:2582585] [CDVTimer][splashscreen] 159.932017ms
+2015-04-24 17:16:43.052 ionicSample[6818:2582585] [CDVTimer][TotalPluginStartup] 161.172986ms
+2015-04-24 17:16:43.218 ionicSample[6818:2582585] Resetting plugins due to page load.
+2015-04-24 17:16:43.539 ionicSample[6818:2582585] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/1C18F2C0-88D8-4A0D-B95B-8A4D953ED93E/ionicSample.app/www/index.html#/tabs/swift
+2015-04-24 17:18:15.098 ionicSample[7016:2584354] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 17:18:15.100 ionicSample[7016:2584354] Multi-tasking -> Device: YES, App: YES
+2015-04-24 17:18:15.101 ionicSample[7016:2584354] Unlimited access to network resources
+2015-04-24 17:18:15.176 ionicSample[7016:2584354] [CDVTimer][keyboard] 0.059009ms
+2015-04-24 17:18:15.221 ionicSample[7016:2584354] [CDVTimer][splashscreen] 45.046985ms
+2015-04-24 17:18:15.221 ionicSample[7016:2584354] [CDVTimer][TotalPluginStartup] 45.417964ms
+2015-04-24 17:18:15.307 ionicSample[7016:2584354] Resetting plugins due to page load.
+2015-04-24 17:18:15.446 ionicSample[7016:2584354] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/281CB324-1C3D-49CC-ABBC-AA96177E76A7/ionicSample.app/www/index.html#/tab/swift
+2015-04-24 17:19:22.165 ionicSample[7185:2585244] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 17:19:22.166 ionicSample[7185:2585244] Multi-tasking -> Device: YES, App: YES
+2015-04-24 17:19:22.168 ionicSample[7185:2585244] Unlimited access to network resources
+2015-04-24 17:19:22.237 ionicSample[7185:2585244] [CDVTimer][keyboard] 0.056982ms
+2015-04-24 17:19:22.269 ionicSample[7185:2585244] [CDVTimer][splashscreen] 31.984031ms
+2015-04-24 17:19:22.269 ionicSample[7185:2585244] [CDVTimer][TotalPluginStartup] 32.355964ms
+2015-04-24 17:19:22.327 ionicSample[7185:2585244] Resetting plugins due to page load.
+2015-04-24 17:19:22.496 ionicSample[7185:2585244] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/3E2F49FA-0408-418C-830A-BD227418A381/ionicSample.app/www/index.html#/tab/swift
+2015-04-24 17:20:13.294 ionicSample[7350:2585989] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 17:20:13.295 ionicSample[7350:2585989] Multi-tasking -> Device: YES, App: YES
+2015-04-24 17:20:13.297 ionicSample[7350:2585989] Unlimited access to network resources
+2015-04-24 17:20:13.371 ionicSample[7350:2585989] [CDVTimer][keyboard] 0.048995ms
+2015-04-24 17:20:13.394 ionicSample[7350:2585989] [CDVTimer][splashscreen] 23.230970ms
+2015-04-24 17:20:13.394 ionicSample[7350:2585989] [CDVTimer][TotalPluginStartup] 23.607016ms
+2015-04-24 17:20:13.457 ionicSample[7350:2585989] Resetting plugins due to page load.
+2015-04-24 17:20:13.615 ionicSample[7350:2585989] Finished load of: file:///Users/you/Library/Developer/CoreSimulator/Devices/6DD45CED-C5FE-448B-A5F6-3CA38F7CD0C6/data/Containers/Bundle/Application/379FC636-BBBD-4DBE-8F67-39D04F9EF85A/ionicSample.app/www/index.html#/tab/swift
